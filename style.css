@@ -89,7 +89,7 @@ article center {
 aside {
 	float: right;
 	width:50%;
-	height:350px;
+	max-height:350px;
 	background-color: #fff;
 	color:#000;
 	padding: 15px 20px 30px 20px;
