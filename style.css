@@ -12,6 +12,7 @@ body {
 .brush{
 	font-family: "Brush Script MT";
 	font-size: 4em;
+	color: #557571;
 
 }
 
@@ -79,28 +80,15 @@ article center {
 	float: left;
 	width:45%;
 	color:black;
-	padding: 80px 20px 20px 20px;
+	padding: 100px 20px 20px 20px;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
 
-.btn {
-	width:100px;
-	height:50px;
-	line-height:50px;
-	text-align: center;
-	margin-left:20px;
-	padding-bottom: 10px;
-	display:inline-block;
-	border-radius:5px;
-	background-color:#7d5A5a;
-	color:#fff;
-	cursor:pointer;
-}
 
 aside {
 	float: right;
-	width:45%;
+	width:50%;
 	height:350px;
 	background-color: #fff;
 	color:#000;
