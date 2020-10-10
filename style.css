@@ -60,21 +60,6 @@ h2 {
 }
 
 
-article center {
-	padding:1px 30px 0px 30px;
-	color:#fff;
-}
-
-
-.box {
-	background-color: #fff;
-	border-radius:15px #557571;
-	border-style: #557571 1px;
-	margin-top: 20px;
-	padding: 10px 20px 20px 20px;
-	max-width: 100%;
-}
-
 
 .contact {
 	float: left;
@@ -90,7 +75,7 @@ aside {
 	float: right;
 	overflow:auto;
 	width:50%;
-	height:500px;
+	max-height:490px;
 	background-color: #fff;
 	color:#000;
 	padding: 10px 20px 30px 20px;
