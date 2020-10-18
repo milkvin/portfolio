@@ -105,6 +105,10 @@ footer {
 		text-align: left;
 }
 
+footer img {
+	padding-left: 200px;
+}
+
 footer a {
 		text-decoration:none;
 			color:#557571;
