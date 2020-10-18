@@ -106,7 +106,8 @@ footer {
 }
 
 footer img {
-	padding-right: 60px;
+	align: right;
+	padding-right: 10px;
 }
 
 footer a {
