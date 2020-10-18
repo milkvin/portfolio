@@ -97,7 +97,7 @@ aside a {
 
 footer {
 		width:100%;
-		min-height:50px;
+		min-height:100px;
 		line-height:50px;
 		padding-left:40px;
 		background-color:#fff;
@@ -106,7 +106,7 @@ footer {
 }
 
 footer img {
-	padding-right: 40px;
+	padding-right: 60px;
 }
 
 footer a {
